@@ -6,4 +6,5 @@ Muestra los últimos sismos de Chile consumiendo la api de https://api.gael.cl/g
 Proyecto Universitario para la Universidad Central de Chile
 
 Autor: Jorge Guevara
+
 email: darkj.chile@gmail.com
