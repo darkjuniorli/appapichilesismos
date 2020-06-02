@@ -8,7 +8,7 @@
 
 <div class="container">
 <center>
-<img src="/foto.png" alt="logo" class="">
+<img src="/logo.png" alt="logo" class="">
 <img src="/logo2.png" alt="logo2" width="150" height="150" class="">
 </center>
 </div>
